@@ -1,0 +1,2 @@
+Hello, i am added using the write file demo 
+Iam added in the new line using the flag: 'a+'
